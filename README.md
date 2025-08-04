@@ -14,7 +14,3 @@
 - Architecture MVC  
 
 ---
-
-## 📫 Contact
-
-**Email** : florian.souquere@gmail.com
