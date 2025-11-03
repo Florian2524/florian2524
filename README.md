@@ -17,7 +17,7 @@ Passionné par le développement web, j’apprends jour après jour à concevoir
 💬 Mailpit (tests d’envoi d’e-mails)
 
 🧠 Compétences principales
-Front-End
+🎨 Front-End
 
 Création d’interfaces modernes et responsives
 
@@ -27,7 +27,7 @@ Communication front/back via API REST
 
 Gestion d’état et optimisation des performances
 
-Back-End
+⚙️ Back-End
 
 Développement d’applications Laravel
 
@@ -37,7 +37,7 @@ Validation des formulaires et sécurisation des routes
 
 Environnements Dockerisés pour le développement
 
-Outils & Méthodologie
+🧩 Outils & Méthodologie
 
 Versionnement avec Git / GitHub
 
