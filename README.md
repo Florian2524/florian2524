@@ -17,6 +17,7 @@ Passionné par le développement web, j’apprends jour après jour à concevoir
 💬 Mailpit (tests d’envoi d’e-mails)
 
 🧠 Compétences principales
+
 🎨 Front-End
 
 Création d’interfaces modernes et responsives
