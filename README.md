@@ -1,6 +1,5 @@
 👋 Présentation
 
-Florian Souquere
 Stagiaire en formation DWWM (Développeur Web et Web Mobile)
 
 Passionné par le développement web, j’apprends jour après jour à concevoir des applications modernes, efficaces et bien structurées, alliant une expérience utilisateur fluide à un code propre et maintenable.
