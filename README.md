@@ -1,45 +1,53 @@
-# 👋 Présentation
+👋 Présentation
 
-**Florian Souquere**  
-Stagiaire en formation **DWWM (Développeur Web et Web Mobile)**  
+Florian Souquere
+Stagiaire en formation DWWM (Développeur Web et Web Mobile)
 
-Passionné par le développement web, j’ai réalisé mon premier projet web complet dans le cadre de ma période de stage DWWM, un site complet mêlant front-end et back-end, fidèle à une charte graphique professionnelle et répondant aux besoins d'un artisan.
+Passionné par le développement web, j’apprends jour après jour à concevoir des applications modernes, efficaces et bien structurées, alliant une expérience utilisateur fluide à un code propre et maintenable.
 
----
+🚀 Stack technique
 
-## 🚀 Projet principal : 2DK Électricité
+⚛️ React.js (Vite, TailwindCSS)
 
-**Technologies principales :**
-- ⚛️ **React.js** — Vite, TailwindCSS, composants dynamiques  
-- 🧰 **Laravel 11** — API REST, Auth, Eloquent ORM  
-- 🗄️ **MariaDB / MySQL**  
-- 🐳 **Docker & Sail**  
-- 💬 **Mailpit** — tests d’envoi de mails  
-- 🔐 **Interface Admin** — gestion des services et des messages  
+🧰 Laravel 11 (API REST, Auth, Eloquent ORM)
 
----
+🗄️ MariaDB / MySQL
 
-## 🧠 Compétences développées
+🐳 Docker & Sail
 
-### Front-End
-- Création d’interfaces modernes et réactives avec **React.js**  
-- Intégration responsive avec **TailwindCSS**  
-- Communication avec l’API via **Axios**  
-- Optimisation du chargement et de la navigation  
+💬 Mailpit (tests d’envoi d’e-mails)
 
-### Back-End
-- Développement d’une **API Laravel**  
-- Requêtes et modèles avec **Eloquent ORM**  
-- Gestion de formulaires et validations  
-- Environnement **Dockerisé** complet  
+🧠 Compétences principales
+Front-End
 
-### Outils & Méthodes
-- Utilisation de **Git / GitHub** pour le versionnement  
-- Structure **MVC**  
-- Bonnes pratiques de développement et d’optimisation  
+Création d’interfaces modernes et responsives
 
----
+Intégration avec TailwindCSS
 
-## 📚 En cours d’apprentissage
-- React avancé (context, hooks personnalisés)  
-- Optimisation et déploiement d’applications web complètes  
+Communication front/back via API REST
+
+Gestion d’état et optimisation des performances
+
+Back-End
+
+Développement d’applications Laravel
+
+Gestion de bases de données avec Eloquent ORM
+
+Validation des formulaires et sécurisation des routes
+
+Environnements Dockerisés pour le développement
+
+Outils & Méthodologie
+
+Versionnement avec Git / GitHub
+
+Architecture MVC
+
+Application des bonnes pratiques de développement
+
+📚 En cours d’apprentissage
+
+React avancé (context, hooks personnalisés)
+
+Optimisation et déploiement d’applications web
