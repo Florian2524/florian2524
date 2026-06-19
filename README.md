@@ -1,44 +1,51 @@
-# 👋 Présentation
+# Bonjour 👋
 
-**Stagiaire en formation DWWM (Développeur Web et Web Mobile)**  
+Je suis actuellement stagiaire en formation CDA (Concepteur Développeur d'Applications).
 
-Passionné par le développement web, j’apprends jour après jour à concevoir des applications modernes, efficaces et bien structurées, alliant une expérience utilisateur fluide à un code propre et maintenable.
+Je m'intéresse au développement web et logiciel, avec une préférence pour les technologies modernes côté front-end et back-end. Mon objectif est de continuer à progresser à travers mes projets, ma formation et mes expériences professionnelles.
 
----
+## Technologies utilisées
 
-## 🚀 Stack technique
+- HTML / CSS
+- JavaScript
+- PHP
+- Laravel
+- React
+- Tailwind CSS
+- MySQL / MariaDB
+- Docker
+- Git & GitHub
 
-- ⚛️ **React.js** (Vite, TailwindCSS)  
-- 🧰 **Laravel 11** (API REST, Auth, Eloquent ORM)  
-- 🗄️ **MariaDB / MySQL**  
-- 🐳 **Docker & Sail**  
-- 💬 **Mailpit** (tests d’envoi d’e-mails)  
+## Ce que je développe
 
----
+- Applications web avec Laravel
+- Interfaces utilisateur avec React
+- API REST
+- Bases de données relationnelles
+- Projets full-stack
 
-## 🧠 Compétences principales
+## Compétences
 
-- 🎨 **Front-End**
-  - Création d’interfaces **modernes et responsives**  
-  - Intégration avec **TailwindCSS**  
-  - Communication front/back via **API REST**  
-  - Gestion d’état et optimisation des performances  
+### Front-end
+- Intégration responsive
+- React
+- Tailwind CSS
+- Consommation d'API
 
-- ⚙️ **Back-End**
-  - Développement d’**applications Laravel**  
-  - Gestion de bases de données avec **Eloquent ORM**  
-  - Validation des formulaires et sécurisation des routes  
-  - Environnements **Dockerisés** pour le développement  
+### Back-end
+- PHP
+- Laravel
+- Architecture MVC
+- Gestion des bases de données
 
-- 🧩 **Outils & Méthodologie**
-  - Versionnement avec **Git / GitHub**  
-  - Architecture **MVC**  
-  - Application des **bonnes pratiques** de développement  
+### Outils
+- Git / GitHub
+- Docker
+- VS Code
 
----
+## En apprentissage
 
-## 📚 En cours d’apprentissage
-
-- **React avancé** (context, hooks personnalisés)  
-- **Optimisation et déploiement** d’applications web  
-
+- Spring & Java
+- React avancé
+- Bonnes pratiques d'architecture
+- Déploiement d'applications
